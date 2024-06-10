@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Recipe Book",
-  description: "a simple cookbook",
+  title: "a homepage",
+  description: "a homepage for future project"
 };
 
 export default function RootLayout({ children }) {
